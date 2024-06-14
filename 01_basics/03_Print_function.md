@@ -27,11 +27,11 @@ you get output--> Hello World direct from variable <class'NoneType'>
 
 # Advance
 ```bash
-  def aa():
+def aa():
     p=print("sd") #sd
     print(p)      #none
     return
 
-  aa()
-  print(type(aa)) #<class'function'>
+aa()
+print(type(aa)) #<class'function'>
 ```

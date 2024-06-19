@@ -24,3 +24,20 @@ Basic Example :-
 | `set` | `x9={"mango","cherry","cherry"}` | {"mango","cherry"} |
 | `frogenset` | `x10=frogenset({"apple","banana","apple"})` | frogenset({"apple","banana","apple"}) |
 | `bool` | `x11=True` | True |
+
+Single line string
+----
+```http
+str1= "python"
+print(str1)
+```
+
+
+Multi line string
+----
+```http
+str2= '''python is great language
+         and fast '''
+print(str2)
+```
+

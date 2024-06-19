@@ -27,7 +27,7 @@ Basic Example :-
 
 Single line string
 ----
-```http
+```bash
 str1= "python"
 print(str1)
 ```
@@ -35,7 +35,7 @@ print(str1)
 
 Multi line string
 ----
-```http
+```bash
 str2= '''python is great language
          and fast '''
 print(str2)
